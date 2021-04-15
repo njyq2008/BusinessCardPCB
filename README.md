@@ -10,4 +10,6 @@ Recommended PCB manufacturing options: FR-4, Immersion Gold 1u, 0.4mm or 0.6mm 2
 ![image](https://user-images.githubusercontent.com/6219206/114874177-a5117100-9e2e-11eb-97ec-9719af40c68c.png)
 
 
-学生时候做的了，传上来，原档，便于修改。
+学生时候做的了，传上来，原档，便于修改。照片渣渣，仅供参考。
+![image](https://user-images.githubusercontent.com/6219206/114877348-c6279100-9e31-11eb-9231-43c6f81c96c3.png)
+
